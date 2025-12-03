@@ -40,7 +40,7 @@ int main() {
     generate_file("test_b.txt", N, weights_b);
 
     vector<double> weights_c = { 1, 90, 1, 2, 1, 2, 3 };
-    generate_file("test_c.txt", N, weights_c);
+    generate_file("test_c.txt", N, weights_c);S
 
     return 0;
 }
